@@ -1,0 +1,11 @@
+# JMeter generated files
+results/*.jtl
+results/*.csv
+results/*.log
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
